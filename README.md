@@ -11,4 +11,4 @@ This repository contains all files, datasets, and reports created while followin
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/panks05/power-bi-crash-course.git
+   git clone https://github.com/panks05/PowerBI.git
