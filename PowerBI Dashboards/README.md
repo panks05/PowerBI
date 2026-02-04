@@ -1,6 +1,6 @@
 # Data Jobs Dashboard w/ Power BI
 
-![Data Jobs Dashboard Page 1](/images/Dashboard_1.png)
+![Data Jobs Dashboard Page 1](.../images/Dashboard_1.png)
 
 ## Introduction
 
