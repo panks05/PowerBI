@@ -10,7 +10,7 @@ Explore the dashboards below. Each has its own dedicated README with more detail
 
 ## 📉 Data Jobs Dashboard (V1 - Comprehensive Exploration)
 
-[![Data Jobs Dashboard GIF](../data-jobs-dashboard/images/Dashboard_1.png)](./Project1/README.md)
+[![Data Jobs Dashboard GIF](/data-jobs-dashboard/images/Dashboard_1.png)](./Project1/README.md)
 
 This initial dashboard provides a comprehensive two-page exploration of the data job market, designed for job seekers. It features a high-level summary page and a detailed drill-through page for specific job titles, offering a broad look at market trends and compensation.
 
