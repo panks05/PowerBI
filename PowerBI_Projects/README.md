@@ -32,7 +32,7 @@ This initial dashboard provides a comprehensive two-page exploration of the data
 
 ## 📊 Data Jobs Dashboard 2.0 (V2 - Single-Page Focus)
 
-[![Data Jobs Dashboard 2.0](/data-jobs-dashboard/images/Dashboard_v2.png)
+[![Data Jobs Dashboard 2.0](data-jobs-dashboard/images/Dashboard_v2.png)
 
 Version 2.0 of the Data Jobs Dashboard streamlines the analysis into a highly focused, single-page experience. It's optimized to deliver the most critical insights quickly to job seekers, featuring dynamic interactions and more advanced analytical capabilities.
 
@@ -52,7 +52,7 @@ Version 2.0 of the Data Jobs Dashboard streamlines the analysis into a highly fo
 
 ## 📊 Sales Analysis Dashboard
 
-![Sales Analysis Dashboard](/sales-dashboard/SalesDashboard.png)
+![Sales Analysis Dashboard](sales-dashboard/SalesDashboard.png)
 
 
 [➡️ **View Full Project 3 Details (README)**](/sales-dashboard/README.md)
