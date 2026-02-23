@@ -26,7 +26,7 @@ This initial dashboard provides a comprehensive two-page exploration of the data
 * 🔘 Buttons & Bookmarks for Page Navigation
 * ➡️ Drill-Through Functionality
 
-[➡️ **View Full Project 1 Details (README)**](/data-jobs-dashboard/Data_Jobs_v1/README.md)
+[➡️ **View Full Project 1 Details (README)**](data-jobs-dashboard/Data_Jobs_v1/README.md)
 
 ---
 
@@ -48,14 +48,14 @@ Version 2.0 of the Data Jobs Dashboard streamlines the analysis into a highly fo
 * 🎚️ Optimized Slicers & Advanced Cross-Filtering Techniques
 * ✨ Report Performance Considerations
 
-[➡️ **View Full Project 2 Details (README)**](/data-jobs-dashboard/Data_Jobs_v2/README.md)
+[➡️ **View Full Project 2 Details (README)**](data-jobs-dashboard/Data_Jobs_v2/README.md)
 
 ## 📊 Sales Analysis Dashboard
 
 ![Sales Analysis Dashboard](sales-dashboard/SalesDashboard.png)
 
 
-[➡️ **View Full Project 3 Details (README)**](/sales-dashboard/README.md)
+[➡️ **View Full Project 3 Details (README)**](sales-dashboard/README.md)
 
 ---
 
